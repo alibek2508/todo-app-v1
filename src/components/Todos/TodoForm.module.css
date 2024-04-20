@@ -1,7 +1,10 @@
 .todoFormContainer {
 	margin-bottom: 30px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/remotes/origin/main
 .todoFormContainer form {
 	display: flex;
 	align-items: center;
@@ -9,7 +12,11 @@
 }
 
 .todoFormContainer input {
+<<<<<<< HEAD
 	width: 45%;
+=======
+	width: 55%;
+>>>>>>> refs/remotes/origin/main
 	height: 30px;
 	font-size: 1.3rem;
 }
